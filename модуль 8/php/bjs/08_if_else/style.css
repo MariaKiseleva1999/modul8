@@ -1,0 +1,21 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+.card-header{
+    color: blueviolet; 
+    background-color: cornflowerblue;
+    font-size: 40px;
+}
+.btn-link {
+    color: brown;
+    background-color: cyan;
+    font-size: 40px;   
+}
+
+.btn-link:cue{
+    color: darkorchid;
+}
+.card-body{
+    background-color: rgb(201, 140, 140);
+}
